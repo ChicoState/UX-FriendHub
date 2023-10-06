@@ -5,16 +5,15 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 ## UX Team Members
 
-* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)** -  Research methods, Developing the wireframe and Working on Scenarios 
+* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)** -  Research methods, Developing the wireframe, Working on Scenarios and executive summary
 > 
 * **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/)** - Methods, Wireframes, Sketches and Personas
 >
-* **[Abraham Hernandez](https://github.com/UsabilityEngineering/ux-portfolio-AbramHernandez)** - 
+* **[Abraham Hernandez](https://github.com/UsabilityEngineering/ux-portfolio-AbramHernandez)** - Caveates and Conclusion
 >
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
@@ -39,24 +38,4 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 [Full phase I report](phaseI/)
 
-# Phase II: Refining interaction and designing wireframes
 
-**Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
-[Full phase II report](phaseII/)
-
-# Phase III: Prototypes and User Testing
-
-**Executive Summary**
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
-[Full phase III report](phaseIII/)
