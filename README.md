@@ -1,14 +1,14 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+#FriendHub
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+FriendHub seeks to solve the challenge of maintaining meaningful friendships in a digital age crowded with superficial connections. It aims to provide a dedicated platform to nurture and strengthen friendships through features like the Friendship Dashboard, Events and Plans, and a unique Friendship Score algorithm.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Dhruv Bahl](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Abraham Hernandez](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Eddie Prestegui](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
@@ -23,10 +23,12 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Conducted user interviews, surveys, and social media listening to understand users' socialization habits and expectations from a friendship app.
+* Analyzed competitors, focusing on Life360, to identify strengths and weaknesses in the family safety and location-sharing domain.
+* Derived key insights: Users seek a balance between practical planning and emotional bonding, value privacy controls, and desire features for both in-person and virtual interactions.
+* Discovered a market gap for an app that combines practicality with emotional connections in the friendship space.
+* Recommendations include developing balanced features, robust privacy controls, and holistic socialization options.
+* Significance: Insights guide the user-centric design of FriendHub, ensuring it addresses users' evolving needs and stands out in the friendship app landscape.
 
 [Full phase I report](phaseI/)
 
