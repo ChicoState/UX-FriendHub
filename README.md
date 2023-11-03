@@ -20,7 +20,7 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 * [Wireframes](wireframes/)
 * [Prototype](#)
 
-# Phase I: Analyzing Users, Competitors, and Initial Designs
+# Phase II: Refining interaction and designing
 
 **Executive Summary**
 
@@ -36,6 +36,6 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 * Significance: Insights guide the user-centric design of FriendHub, ensuring it addresses users' evolving needs and stands out in the friendship app landscape.
 
-[Full phase I report](phaseI/)
+[Full phase II report](phaseII/)
 
 
