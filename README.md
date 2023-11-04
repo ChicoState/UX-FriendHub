@@ -24,17 +24,32 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 **Executive Summary**
 
-* Conducted user interviews, surveys, and social media listening to understand users' socialization habits and expectations from a friendship app.
+Refined Interactions:
 
-* Analyzed competitors, focusing on Life360, to identify strengths and weaknesses in the family safety and location-sharing domain.
+* Enhanced onboarding and login processes through cognitive walkthroughs.
+* Designed clear and user-friendly wireframes for key app features.
 
-* Derived key insights: Users seek a balance between practical planning and emotional bonding, value privacy controls, and desire features for both in-person and virtual interactions.
+Usability Test Plan:
 
-* Discovered a market gap for an app that combines practicality with emotional connections in the friendship space.
+* Developed a robust plan for real-world usability testing with varied scenarios.
 
-* Recommendations include developing balanced features, robust privacy controls, and holistic socialization options.
+User-Centered Design:
 
-* Significance: Insights guide the user-centric design of FriendHub, ensuring it addresses users' evolving needs and stands out in the friendship app landscape.
+* Created detailed wireframes for diverse interactions, emphasizing feedback and iteration.
+
+* Significance:
+
+  User-Centric Approach:
+
+* Aligned design decisions with user preferences for intuitive experiences.
+
+* Comprehensive Foundation:
+
+* Established a strong foundation with wireframes covering all user interactions.
+
+Continuous Improvement:
+
+* Iterative testing and feedback ensure adaptability and user satisfaction.
 
 [Full phase II report](phaseII/)
 
