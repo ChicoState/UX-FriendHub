@@ -2,20 +2,60 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The project addresses the challenge of fostering meaningful friendships in the digital age through the development of FriendHub. This phase focuses on refining interactions and designing wireframes to ensure a user-friendly and engaging experience.
+
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+* Cognitive Walkthroughs: Evaluated the onboarding and login processes for clarity and user guidance.
+* Wireframe Design: Created detailed wireframes for key app features, emphasizing user-centric design.
+* Usability Test Plan: Developed a plan for real-world testing, covering navigation, location sharing, group interactions, and more.
+
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Cognitive Walkthroughs:
+
+* Positive Aspects: Loading screen and confirmation message enhance user experience.
+* Areas for Improvement: Signup/login confusion and a need for more guidance on certain elements.
+
+
+Wireframe Design:
+
+* Main Login Wireframes: Explored seamless login experiences and homepage navigation.
+* Homepage and Profiles: Focused on clarity and ease of navigation for users.
+* Usability Test Plan:
+
+Identified key objectives for navigation, location sharing, group interactions, logout, recommendations, profile updates, and icon usage.
+Defined screening criteria, study design, and task-based scenarios for a comprehensive evaluation.
+
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Interpretation:
+
+* Positive aspects, like confirmation messages, contribute to a confident user experience.
+* Identified areas for improvement guide further design iterations.
+
+Recommendations:
+
+* Address signup/login confusion through clearer distinctions and additional guidance.
+* Prioritize user guidance elements to enhance the purpose and functionality understanding.
+
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Limitations:
+
+* Findings may not capture the entire user spectrum; continuous testing is essential.
+* Assumptions about user preferences may evolve; ongoing research is necessary.
+
+Considerations:
+
+* The usability test plan covers diverse scenarios, but real-world user behavior may vary.
+* The findings provide insights, but user feedback is dynamic; constant iteration is crucial.
+
+Future Work:
+
+* Continued user testing, iterative design refinements, and adaptation to evolving user needs are vital for FriendHub's success.
+* Regularly incorporating user feedback ensures a responsive and user-centric app throughout its development.
