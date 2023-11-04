@@ -5,11 +5,11 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 ## UX Team Members
 
-* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)** -  Research methods, Developing the wireframe, Working on Scenarios and executive summary
+* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit)** -  Wireframes, Cognitive walkthrough, Methods, Conclusions
 > 
-* **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/)** - Methods, Wireframes, Sketches and Personas
+* **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/)** - Wireframes, Methods, Executive summary, Caveates 
 >
-* **[Abraham Hernandez](https://github.com/UsabilityEngineering/ux-portfolio-AbramHernandez)** - Caveates and Conclusion
+* **[Abraham Hernandez](https://github.com/UsabilityEngineering/ux-portfolio-AbramHernandez)** - Wireframe walkthrough, Caveats, Findings, introduction
 >
 
 # User-Centered Design Artifacts
