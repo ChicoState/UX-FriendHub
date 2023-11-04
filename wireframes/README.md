@@ -7,6 +7,8 @@
  ![Wireframes](https://github.com/ChicoState/UX-FriendHub/blob/main/6.jpg)
  ![Wireframes](https://github.com/ChicoState/UX-FriendHub/blob/main/7.jpg)
  ![Wireframes](https://github.com/ChicoState/UX-FriendHub/blob/main/8.jpg)
+ ![Wireframes](https://github.com/ChicoState/UX-FriendHub/blob/main/9.jpg)
+ 
  
  
  
