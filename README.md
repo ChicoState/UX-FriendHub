@@ -5,11 +5,11 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 ## UX Team Members
 
-* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/j01/README.md)** -  Wireframes, Cognitive walkthrough, Methods, Conclusions
+* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/j01/)** -  Wireframes, Cognitive walkthrough, Methods, Conclusions
 > 
-* **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/)** - Wireframes, Methods, Executive summary, Caveates 
+* **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/j01/)** - Wireframes, Methods, Executive summary, Caveates 
 >
-* **[Abraham Hernandez](https://github.com/UsabilityEngineering/ux-portfolio-AbramHernandez)** - Wireframe walkthrough, Caveats, Findings, introduction
+* **[Abraham Hernandez](https://usabilityengineering.github.io/ux-portfolio-AbramHernandez/j01/)** - Wireframe walkthrough, Caveats, Findings, introduction
 >
 
 # User-Centered Design Artifacts
@@ -19,7 +19,8 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Prototype](https://xd.adobe.com/view/b36ea3c3-004f-4d81-aadc-a46d961bf9fe-e63d/)
-
+* 
+# Phase II: Refining interaction and designing wireframes
 ***Executive Summary II***
 
 Conducted user interviews, surveys, and social media listening to understand users' socialization habits and expectations from a friendship app.
@@ -62,32 +63,30 @@ Iterative testing and feedback ensure adaptability and user satisfaction.
 
 **Executive Summary**
 
-Refined Interactions:
+**Developed High-Fidelity Prototypes:** Created detailed FriendHub prototypes for onboarding refinement.
 
-* Enhanced onboarding and login processes through cognitive walkthroughs.
-* Designed clear and user-friendly wireframes for key app features.
+**Conducted User Testing:** Real user interactions uncovered usability insights.
 
-Usability Test Plan:
+**Identified Pain Points:** Pinpointed challenges during onboarding for targeted improvements.
 
-* Developed a robust plan for real-world usability testing with varied scenarios.
+**Refined UI Design:** Enhanced visuals and interactivity based on user feedback.
 
-User-Centered Design:
+**Streamlined Onboarding:** Simplified signup/login for a more intuitive experience.
 
-* Created detailed wireframes for diverse interactions, emphasizing feedback and iteration.
+**Enhanced User Guidance:** Added elements to address potential confusion.
 
-* Significance:
+**Validated Design Decisions:** Testing confirmed positive resonance with users.
 
-  User-Centric Approach:
+**Significance:**
 
-* Aligned design decisions with user preferences for intuitive experiences.
+Improved User Experience: Prototypes enhance onboarding, reducing friction.
 
-* Comprehensive Foundation:
+Usability Validation: User testing confirms resonance with real users.
 
-* Established a strong foundation with wireframes covering all user interactions.
+Optimized Engagement: UI enhancements maximize user interaction.
 
-Continuous Improvement:
+**Data-Driven Iteration:** Insights guide iterative design changes, aligning with user needs.
 
-* Iterative testing and feedback ensure adaptability and user satisfaction.
 
 [Full phase III report](phaseIII/) <br>
 
