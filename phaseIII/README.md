@@ -2,11 +2,13 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The project aims to address the challenge of providing a seamless onboarding experience for users joining the FriendHub app. This interval of work focuses on understanding user interactions during the initial setup, group joining, friend adding, and profile editing tasks. The overarching goal is to enhance the usability and user satisfaction of FriendHub's onboarding process.
+
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+We employed a combination of heuristic evaluation, cognitive walkthroughs, and usability testing to gain comprehensive insights into user experiences. Heuristic Evaluation: Leveraged usability heuristics to evaluate the current design against industry standards, identifying strengths and areas for improvement. Cognitive Walkthroughs: Simulated user interactions to assess the app's intuitiveness and discover potential usability issues. Usability Testing: Conducted task-based testing with mock users to observe real-time user behaviors, challenges faced, and preferences during onboarding tasks.
+
 
 ## Findings
 
