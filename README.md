@@ -20,7 +20,7 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 * [Wireframes](wireframes/)
 * [Prototype](#)
 
-# Phase II: Refining interaction and designing
+# Phase III: Refining interaction and designing
 
 **Executive Summary**
 
@@ -51,6 +51,6 @@ Continuous Improvement:
 
 * Iterative testing and feedback ensure adaptability and user satisfaction.
 
-[Full phase II report](phaseII/)
+[Full phase II report](phaseIII/)
 
 
