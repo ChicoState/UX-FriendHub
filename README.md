@@ -18,7 +18,7 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](phaseIIIEval/UX_Protocol.pdf)
+* [Prototype](https://xd.adobe.com/view/b36ea3c3-004f-4d81-aadc-a46d961bf9fe-e63d/)
 
 # Phase III: Refining interaction and designing
 
