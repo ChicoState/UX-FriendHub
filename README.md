@@ -38,7 +38,7 @@ Significance: Insights guide the user-centric design of FriendHub, ensuring it a
 [Full phase I report](phaseI/)
 
 # Phase II: Refining interaction and designing wireframes
-***Executive Summary ***
+***Executive Summary***
 
 Conducted user interviews, surveys, and social media listening to understand users' socialization habits and expectations from a friendship app.
 Refined Interactions:
