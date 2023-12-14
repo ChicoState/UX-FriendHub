@@ -11,6 +11,6 @@
 [Data](https://docs.google.com/spreadsheets/d/1gwwbxSP3c7QfgU6_K7yA9Edo700d6r8sgufzJtPRze0/edit#gid=0/) <br>
 
 <br>
-
+### Chart
 ![Chart](https://github.com/ChicoState/UX-FriendHub/blob/main/phaseIIIEval/chart.jpg)
 <br>
