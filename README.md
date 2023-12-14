@@ -51,6 +51,6 @@ Continuous Improvement:
 
 * Iterative testing and feedback ensure adaptability and user satisfaction.
 
-[Full phase II report](phaseIII/)
+[Full phase III report](phaseIII/)
 
 
