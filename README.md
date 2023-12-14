@@ -5,11 +5,11 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 
 ## UX Team Members
 
-* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/j01/)** -  Wireframes, Cognitive walkthrough, Methods, Conclusions
+* **[Dhruv](https://github.com/UsabilityEngineering/ux-portfolio-dbahlgit/blob/master/j01/)** -  Wireframes, Cognitive walkthrough, Methods, Conclusions, Protocol, Data collection
 > 
-* **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/j01/)** - Wireframes, Methods, Executive summary, Caveates 
+* **[Eddie Prestegui](https://usabilityengineering.github.io/ux-portfolio-Eddieprestegui/j01/)** - Wireframes, Methods, Executive summary, Caveates, prototype, Data collection
 >
-* **[Abraham Hernandez](https://usabilityengineering.github.io/ux-portfolio-AbramHernandez/j01/)** - Wireframe walkthrough, Caveats, Findings, introduction
+* **[Abraham Hernandez](https://usabilityengineering.github.io/ux-portfolio-AbramHernandez/j01/)** - Wireframe walkthrough, Caveats, Findings, introduction, testing, protocol
 >
 
 # User-Centered Design Artifacts
@@ -19,9 +19,26 @@ FriendHub seeks to solve the challenge of maintaining meaningful friendships in 
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Prototype](https://xd.adobe.com/view/b36ea3c3-004f-4d81-aadc-a46d961bf9fe-e63d/)
-* 
+
+# Phase I: Analyzing Users, Competitors, and Initial Designs
+
+Executive Summary
+
+Analyzed competitors, focusing on Life360, to identify strengths and weaknesses in the family safety and location-sharing domain.
+
+Derived key insights: Users seek a balance between practical planning and emotional bonding, value privacy controls, and desire features for both in-person and virtual interactions.
+
+Discovered a market gap for an app that combines practicality with emotional connections in the friendship space.
+
+Recommendations include developing balanced features, robust privacy controls, and holistic socialization options.
+
+Significance: Insights guide the user-centric design of FriendHub, ensuring it addresses users' evolving needs and stands out in the friendship app landscape.
+
+
+[Full phase I report](phaseI/)
+
 # Phase II: Refining interaction and designing wireframes
-***Executive Summary II***
+***Executive Summary ***
 
 Conducted user interviews, surveys, and social media listening to understand users' socialization habits and expectations from a friendship app.
 Refined Interactions:
